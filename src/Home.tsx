@@ -10,7 +10,7 @@ import { LAMPORTS_PER_SOL } from "@solana/web3.js";
 
 import { useAnchorWallet } from "@solana/wallet-adapter-react";
 import { WalletDialogButton } from "@solana/wallet-adapter-material-ui";
-
+import "./thoFile.css";
 import {
   CandyMachine,
   awaitTransactionSignatureConfirmation,
