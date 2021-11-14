@@ -1,9 +1,14 @@
 #tho{
-    height: 100vh;
-    margin-top: 20vh;
+    width:max-content;
+    margin-top: 15vh;
     text-align: center;
     justify-content: center;
-    align-items: center;
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: x-large;
+    margin-left: 10vh;
+    background: rgba(75, 73, 73, 0.815);
+    border-radius: 2vh;
+    color: azure;
+    
 }
