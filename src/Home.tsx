@@ -167,7 +167,7 @@ const Home = (props: HomeProps) => {
 
   return (
     <main>
-      <div id="tho>
+      <div id="tho">
       {wallet && (
         <p>Wallet {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
       )}
